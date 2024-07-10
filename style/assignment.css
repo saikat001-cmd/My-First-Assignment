@@ -22,7 +22,7 @@ body{
 }
 .banner-content{
     display: flex;
-    /* flex-direction: column;  */
+   
     height: 320px; 
     justify-content: center;
     align-items: center;
@@ -378,3 +378,63 @@ text-align: center;
 .skill p{
     height: 60px;
 }
+#style-container{
+    width: 1140px;
+height: 313px;
+margin: 0 auto;
+border: 2px solid red;
+background-image:url('/assets/handshake.jpg');
+background-position: center; background-repeat: no-repeat;
+background-size: cover;
+background-blend-mode: overlay;
+}
+.style-content{
+    width: 730px;
+height: 104px;
+margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.style-content h1{
+    width: 292px;
+height: 50px;
+color: rgb(255, 255, 255);
+font-size: 32px;
+font-weight: 700;
+justify-content: center;
+margin: 0 auto;
+text-align: center;
+margin-top: 60px;
+}
+.style-content p{
+    width: 606px;
+height: 150px;
+color: rgb(255, 255, 255);
+font-size: 16px;
+font-weight: 400;
+justify-content: center;
+margin: 0 auto;
+text-align: center;
+}
+.button-br{
+    display: flex;
+    margin: 0 auto;
+
+}.button-br-1{
+    width: 548px;
+height: 10px;
+justify-content: center;
+margin: 0 auto;
+text-align: center;
+
+
+}
+/* .br{
+    width: 120px;
+height: 57px;
+color: rgb(13, 19, 33);
+font-size: 20px;
+font-weight: 600;
+
+} */
+
