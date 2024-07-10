@@ -382,7 +382,6 @@ text-align: center;
     width: 1140px;
 height: 313px;
 margin: 0 auto;
-border: 2px solid red;
 background-image:url('/assets/handshake.jpg');
 background-position: center; background-repeat: no-repeat;
 background-size: cover;
@@ -437,4 +436,12 @@ font-size: 20px;
 font-weight: 600;
 
 } */
+ .style-container{
+    width: 1000px;
+height: 100px;
+margin: 0 auto;
+margin-top: 70px;
+justify-content: space-around;
+display: flex;
+ }
 
